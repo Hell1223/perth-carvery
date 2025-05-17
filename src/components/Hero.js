@@ -38,7 +38,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.4 }}
         >
           <Link
-            href="/menu"
+            href="/contact"
             className="inline-block bg-stone-600 text-sm sm:text-base md:text-lg lg:text-xl text-white px-6 py-3 rounded-lg font-light hover:bg-stone-700 transition"
           >
             Book Now !!
